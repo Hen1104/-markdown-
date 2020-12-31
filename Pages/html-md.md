@@ -4,12 +4,12 @@ Let You Answer This Question
 - [ ] Advance Mode
 - [ ] Developer
 - [ ] Advance Developer
-- [ ] Beginner
+- [x] Beginner
 
 # HTML / MD ?
 The HTML and Markdown If Same?
 - [ ] Yes
-- [ ] No
+- [x] No
 
 ## Getting Started
 
@@ -37,16 +37,17 @@ Hello World
 **Code Block HTML FILE**
 ```html
 <code><h1>Header</h1></code>
+```
 
 # Questions?
 **What is best for you?**
 - [ ] Markdown
-- [ ] HTML
+- [x] HTML
 
 **Did You Know Markdown File Can You Add `<h1>` Coding Become A Header?**
 - [ ] Yeah
 - [ ] No
-- [ ] I don't know
+- [x] I don't know
 
 Check [Announcement](/Announcement/main.md) For More Information Or Check [Changelogs](/Changelogs/main.md)!
 
