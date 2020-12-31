@@ -11,7 +11,7 @@ Hyperlink •••••••••••••••••••• [ [✓](P
 
 Font Styling ••••••••••••••••••••• [ [✓](Pages/style.md) ]
 
-Blockquotes •••••••••••••••••••• [ [✓](Pages/blockquotes.md) ]
+Blockquotes •••••••••••••••••••• [ [✓](Pages/blockquote.md) ]
 
 HTML Coding On Markdown ••••••••• [ [✓](Pages/html-md.md) ]
 
