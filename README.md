@@ -30,5 +30,7 @@ News •••••••••••••••••••• [ [✓](News/m
 [GitHub Of DBD.JS](http://GitHub.com/Leref/DBD.JS/)
 
 **Copyright By Hen1104✓ | Verified Github User**
+
 Since 2020 ~ 2021
+
 Carefully Coding On [GitHub](http://GitHub.com)
