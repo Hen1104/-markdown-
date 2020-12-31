@@ -13,8 +13,6 @@ Font Styling ••••••••••••••••••••• [ [
 
 Blockquotes •••••••••••••••••••• [ [✓](Pages/blockquotes.md) ]
 
-Hyperlink With Styling •••••••••••••••• [ [✓](Pages/hyperlink-style.md) ]
-
 HTML Coding On Markdown ••••••••• [ [✓](Pages/html-md.md) ]
 
 Changelogs •••••••••••••••••••• [ [✓](Changelogs/main.md) ]
