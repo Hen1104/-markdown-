@@ -23,7 +23,7 @@ News •••••••••••••••••••• [ [✓](News/m
 
 ## Links
 
-[SUPPORT SERVER](http://go.to.md.kro.kr/)
+[SUPPORT SERVER](https://discord.gg/Cvnbx6dMqD)
 
 [GitHub Of DBD.JS](http://GitHub.com/Leref/DBD.JS/)
 
