@@ -23,7 +23,7 @@ Announcement •••••••••••••••••••• [ [✓
 
 News •••••••••••••••••••• [ [✓](News/main.md) ]
 
-## Other Links
+## Links
 
 [SUPPORT SERVER](http://go.to.md.kro.kr/)
 
