@@ -12,7 +12,10 @@ Building Your Own Style **Text**
 ```md
 *Italic Text*
 ```
-
+`Coding Text`
+```md
+`Coding Text`
+```
 [« Back](hyperlink.md)
 
 [» Next](blockquote.md)
