@@ -40,6 +40,6 @@ Output :
 > ##### S
 > ###### VS
 
-If Incorrect You Can Edit This With My Permission On [SUPPORT SERVER](http://GitHub.com/Hen1104/markdown-v2/#Links)
+If There's Mistakes You Can Edit This With My Permission On [SUPPORT SERVER](http://GitHub.com/Hen1104/markdown-v2/#Links)
 
 [»Next](hyperlink.md)
